@@ -1,0 +1,28 @@
+**Considere o formato de imagem NetPBM**<br/>
+**a - Qual a diferença entre os números mágicos P1, P2, P3, P4, P5 e P6?**
+
+Resp:
+	Os números mágicos P1, P2 e P3 correspondem, respectivamente, aos tipos de arquivos PBM, PGM, e PPM no formato ASCII. Já o P4, P5 e P6 correspondem aos mesmos tipos de arquivos, PBM, PGM, e PPM, respectivamente, porém em formato binário.
+
+ 
+**b - Converta uma imagem jpg para PBM (ASCII) utilizando convert:**
+# no terminal: convert -compress none imagem.jpg novaimagem.pbm 
+# convert imagem.jpg novaimagem.pbm (converte para ascii)
+# para mostrar: display novaimagem.pbm
+
+	Está na pasta de resultados
+	
+
+**c - Converta a mesma imagem para PBM (binário) e para PPM (binário). Compare o tamanho dos 4 arquivos de imagem.**
+
+	Está na pasta de resultados
+
+**d - Por que o formato binário ocupa menos espaço que o formato ASCII?**
+Resp: 
+Porque no ascii há uma "camada de conversão", já que precisa-se de 1 byte para representar um caracter, e seria um byte por pixel. Já no binário precisa-se apenas de 1 bit para representar as cores (0 para preto e 1 para branco).
+
+
+**e - Por que o formato PPM binário ocupa mais espaço que o formato PBM binário?**
+Resp:
+No PPM, como temos cores no padrão RGB, então teremos 1 byte por cor, portanto 3 bytes por pixel. O PBM representa cada pixel como 1 bit, o que faz ocupar menos espaço.
+

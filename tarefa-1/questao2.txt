@@ -1,0 +1,5 @@
+2 - Qual a diferença entre os cones S, M e L? Quais deles são mais ativados quando uma luz amarela é projetada na retina?
+
+R: Cada tipo é sensível a uma frequência específica do espectro visível de cores. O 'S' é mais sensível ao azul, o 'M' é mais sensível ao verde e o 'L' é mais sensível ao vermelho. 
+
+Como o amarelo é a sobreposição do verde com o vermelho, então serão ativados os cones 'M' e 'L'.

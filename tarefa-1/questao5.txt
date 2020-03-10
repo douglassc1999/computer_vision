@@ -1,0 +1,8 @@
+**5 - Quais desses formatos são vetoriais e quais são bitmaps? BMP, SVG, JPG, EPS, PNG**
+
+Resp: 
+	BMP - Bitmap 
+	SVG - Vetorial 
+	JPG - Bitmap 
+	EPS - Vetorial 
+	PNG - Bitmap 

@@ -1,0 +1,10 @@
+// Aluno: Douglas de Souza Carvalho
+
+1 - Descreva a distribuição de células fotorreceptoras na retina e seu impacto na percepção visual
+
+R: Há dois tipos de fotoreceptores: Os cones e os bastonetes.
+
+Os bastonetes são sensíveis a baixa iluminação (são eles que são ativados em ambinentes escuros) e há de 75-100 milhões.
+
+Os cones são os responsáveis pela percepção de cores, se concentram na fóvea e há de 6-7 milhões. Há três tipos: S, M e L. Os cones são sensíveis a diferentes frequências do espectro visível de cores.
+
